@@ -10,7 +10,7 @@ Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir. O 
 
 ## Consulta 2 
 
-![Exercicio 2](Imagens_Desafio/Consulta2.png)
+![Exercicio 2](Imagens_Desafio/Consulta2.PNG)
 
 
 
