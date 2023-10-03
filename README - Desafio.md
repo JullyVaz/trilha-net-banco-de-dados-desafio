@@ -16,38 +16,38 @@ Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir. O 
 
 ## Consulta 3 
 
-![Exercicio 3](Imagens_Desafio/Consulta3.png)
+![Exercicio 3](Imagens_Desafio/Consulta3.PNG)
 
 
 
 ## Consulta 4 
 
-![Exercicio 4](Imagens_Desafio/Consulta4.png)
+![Exercicio 4](Imagens_Desafio/Consulta4.PNG)
 
 
 
 
 ## Consulta 5
 
-![Exercicio 5](Imagens_Desafio/Consulta5.png)
+![Exercicio 5](Imagens_Desafio/Consulta5.PNG)
 
 
 
 ## Consulta 6
 
-![Exercicio 6](Imagens_Desafio/Consulta6.png)
+![Exercicio 6](Imagens_Desafio/Consulta6.PNG)
 
 
 
 ## Consulta 7
 
-![Exercicio 7](Imagens_Desafio/Consulta7.png)
+![Exercicio 7](Imagens_Desafio/Consulta7.PNG)
 
 
 
 ## Consulta 8
 
-![Exercicio 8](Imagens_Desafio/Consulta8.png)
+![Exercicio 8](Imagens_Desafio/Consulta8.PNG)
 
 
 
@@ -59,19 +59,19 @@ Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir. O 
 
 ## Consulta 10
 
-![Exercicio 10](Imagens_Desafio/Consulta10.png)
+![Exercicio 10](Imagens_Desafio/Consulta10.PNG)
 
 
 
 ## Consulta 11
 
-![Exercicio 11](Imagens_Desafio/Consulta11.png)
+![Exercicio 11](Imagens_Desafio/Consulta11.PNG)
 
 
 
 ## Consulta 12
 
-![Exercicio 12](Imagens_Desafio/Consulta12.png)
+![Exercicio 12](Imagens_Desafio/Consulta12.PNG)
 
 
 
