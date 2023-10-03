@@ -1,6 +1,9 @@
-Eu sou o responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado a mim que realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises.
+### Banco de Dados - Desafio
+
+Eu sou o responsável pelo banco de dados de um site de filmes, onde são armazenados dados sobre os filmes e seus atores. Sendo assim, foi solicitado no desafio que realize uma consulta no banco de dados com o objetivo de trazer alguns dados para análises.
 Eu realizei as 12 consultas ao banco de dados que foram solicitadas, cada uma retornando um tipo de informação. 
-Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir. O meu retorno foi igual aos das imagens abaixo:
+Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir:
+
 
 ## Consulta 1 
 
@@ -23,7 +26,6 @@ Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir. O 
 ## Consulta 4 
 
 ![Exercicio 4](Imagens_Desafio/Consulta4.PNG)
-
 
 
 
@@ -53,7 +55,7 @@ Eu criei as diversas consultas, com o objetivo de retornar os dados a seguir. O 
 
 ## Consulta 9
 
-![Exercicio 9](Imagens_Desafio/Consulta9.png)
+![Exercicio 9](Imagens_Desafio/Consulta9.PNG)
 
 
 
